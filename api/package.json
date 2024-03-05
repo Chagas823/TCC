@@ -9,6 +9,7 @@
   "author": "Francisco das Chagas",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.3"
+    "express": "^4.18.3",
+    "lrs": "^0.1.5"
   }
 }
