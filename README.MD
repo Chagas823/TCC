@@ -1,4 +1,4 @@
-# Equilibrando Anonimato e Autenticidade em Pesquisas de Levantamento: Explorando Assinaturas em Anel Vinculáveis ́aneis como Solução
+# Equilibrando Anonimato e Autenticidade em Pesquisas de Levantamento: Explorando Assinaturas em Anel Vinculáveis como Solução
 ## 🗺️ Motivação 
 As pesquisas de levantamento desempenham um papel relevante em diversas áreas que envolvem Sistemas de Informação, desde a ciência até o contexto dos negócios e a governança pública. Tais métodos são fundamentais para tomadas de decisão em organizações. No entanto, muitas pesquisas enfrentam problemas relacionados à veracidade das informações, pois muitos usuários respondem às perguntas com dados incorretos devido ao receio da falta de anonimato. Outro desafio é quando usuários não autorizados respondem à pesquisa, o que resulta em dados imprecisos. 
 
