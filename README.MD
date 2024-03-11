@@ -4,7 +4,7 @@ Surveys play a significant role in various domains involving Information Systems
 
 Given these challenges, there arises a need to explore cryptographic algorithms that can assist in addressing this issue. Consequently, the Vicunlable Ring Signature scheme, which aims to ensure respondent anonymity, verify if two signatures were issued by the same group member, and identify from which group a signature originated, emerges as a potential viable solution.
 
-## 📍 Proposta 
+## 📍 Proposal 
 In light of these issues, this study aims to develop an open-source web application/model that can be utilized, expanded, and studied in survey research. To achieve this goal, the Vicunlable Ring Signature scheme is employed as the solution.
 
 Additionally, a methodology and architecture are proposed for implementation.
